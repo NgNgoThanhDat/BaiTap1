@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ect": "^0.5.9",
     "express": "^4.13.4"
   }
 }
